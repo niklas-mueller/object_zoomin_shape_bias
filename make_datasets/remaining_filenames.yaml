@@ -1,0 +1,104 @@
+Balcony door:
+- !!python/tuple
+  - 80a0e4965478b0e8
+  - 34
+- !!python/tuple
+  - c1c8d9d90c90dcdc
+  - 7
+- !!python/tuple
+  - e5a6e13363e3e9fd
+  - 21
+- !!python/tuple
+  - c607c4c13b9884c6
+  - 25
+Bin:
+- !!python/tuple
+  - b8e174d8b818f0f0
+  - 7
+- !!python/tuple
+  - d8dccc787870f0f0
+  - 2
+- !!python/tuple
+  - f2f393a9eab6ecc8
+  - 2
+- !!python/tuple
+  - 2e2332b2043d7170
+  - 4
+Carrier bike:
+- !!python/tuple
+  - 222222b162048cc2
+  - 8
+- !!python/tuple
+  - cededaba1c78fab2
+  - 0
+- !!python/tuple
+  - 62d8991987e3f9f9
+  - 0
+- !!python/tuple
+  - bcf8e8e8688cc0e0
+  - 28
+Compact car:
+- !!python/tuple
+  - e9c0c0f0b0b03971
+  - 5
+- !!python/tuple
+  - 5a3bf1c069e1e5c1
+  - 7
+- !!python/tuple
+  - e296981a1aca183c
+  - 2
+- !!python/tuple
+  - 557456d62d2d07b6
+  - 5
+SUV:
+- !!python/tuple
+  - fe6e777b61e5d0c8
+  - 7
+- !!python/tuple
+  - d8d8dad1ddac91da
+  - 29
+- !!python/tuple
+  - 88f07858769ce5da
+  - 5
+- !!python/tuple
+  - 98908404180230b0
+  - 4
+Scooter:
+- !!python/tuple
+  - 9d8cc952727cd8f0
+  - 1
+- !!python/tuple
+  - a4d0f07c128eccf4
+  - 0
+- !!python/tuple
+  - 7777f1e4db06bdb9
+  - 0
+- !!python/tuple
+  - d8e879487079c4c0
+  - 4
+Traffic light:
+- !!python/tuple
+  - 717121a282c6f0c0
+  - 21
+- !!python/tuple
+  - e3f3ebcb3036e8f0
+  - 17
+- !!python/tuple
+  - 911193d1dd98f0e8
+  - 47
+- !!python/tuple
+  - b8e174d8b818f0f0
+  - 34
+Traffic sign:
+- !!python/tuple
+  - 9c9a1ab630321307
+  - 13
+- !!python/tuple
+  - c9c9cc4c2c5ccbc3
+  - 3
+- !!python/tuple
+  - 5858babc3938f6c6
+  - 2
+- !!python/tuple
+  - c1c5c5cdde94c484
+  - 20

@@ -1,0 +1,6 @@
+model-vs-human/*.egg-info
+
+model-vs-human/examples/*
+model-vs-human/latex-report/*
+model-vs-human/datasets
+model-vs-human/raw-data

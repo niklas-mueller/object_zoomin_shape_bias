@@ -1,0 +1,352 @@
+---
+coco_objects:
+    zoom-0:
+        reps:
+            0:
+                path: "coco_objects/zoom-0/rep-0/training_results_23-04-24-093029.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-0/rep-0/imagenet/fc/training_results_Tue_Apr_23_14:29:57_2024.yml"
+                        layer4: "coco_objects/zoom-0/rep-0/imagenet/layer4/training_results_Tue_Apr_23_14:35:03_2024.yml"
+                        full: "coco_objects/zoom-0/rep-0/imagenet/full/training_results_Tue_Apr_23_14:40:06_2024.yml"
+            1:
+                path: "coco_objects/zoom-0/rep-1/training_results_23-04-24-174610.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-0/rep-1/imagenet/fc/training_results_Fri_Nov_15_16:15:48_2024.yml"
+                        layer4: "coco_objects/zoom-0/rep-1/imagenet/layer4/training_results_Fri_Nov_15_16:15:46_2024.yml"
+                        full: "coco_objects/zoom-0/rep-1/imagenet/full/training_results_Fri_Nov_15_16:15:45_2024.yml"
+            2:
+                path: "coco_objects/zoom-0/rep-2/training_results_04-05-24-134114.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-0/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:25:55_2024.yml"
+                        layer4: "coco_objects/zoom-0/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:25:53_2024.yml"
+                        full: "coco_objects/zoom-0/rep-2/imagenet/full/training_results_Mon_Nov_18_10:25:50_2024.yml"
+            3:
+                path: "coco_objects/zoom-0/rep-3/training_results_04-05-24-150237.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-0/rep-3/imagenet/fc/training_results_Mon_Nov_18_10:36:27_2024.yml"
+                        layer4: "coco_objects/zoom-0/rep-3/imagenet/layer4/training_results_Mon_Nov_18_10:36:27_2024.yml"
+                        full: "coco_objects/zoom-0/rep-3/imagenet/full/training_results_Mon_Nov_18_10:36:22_2024.yml"
+    zoom-80:
+        reps:
+            0:
+                path: "coco_objects/zoom-80/rep-0/training_results_14-11-24-134541.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-80/rep-0/imagenet/fc/training_results_Fri_Nov_15_16:15:44_2024.yml"
+                        layer4: "coco_objects/zoom-80/rep-0/imagenet/layer4/training_results_Fri_Nov_15_16:15:45_2024.yml"
+                        full: "coco_objects/zoom-80/rep-0/imagenet/full/training_results_Fri_Nov_15_16:15:45_2024.yml"
+            1:
+                path: "coco_objects/zoom-80/rep-1/training_results_14-11-24-133905.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-80/rep-1/imagenet/fc/training_results_Mon_Nov_18_10:25:55_2024.yml"
+                        layer4: "coco_objects/zoom-80/rep-1/imagenet/layer4/training_results_Mon_Nov_18_10:26:18_2024.yml"
+                        full: "coco_objects/zoom-80/rep-1/imagenet/full/training_results_Mon_Nov_18_10:25:53_2024.yml"
+            2:
+                path: "coco_objects/zoom-80/rep-2/training_results_14-11-24-133606.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-80/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:36:50_2024.yml"
+                        layer4: "coco_objects/zoom-80/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:37:28_2024.yml"
+                        full: "coco_objects/zoom-80/rep-2/imagenet/full/training_results_Mon_Nov_18_10:37:28_2024.yml"
+            3:
+                path: "coco_objects/zoom-80/rep-3/training_results_05-05-24-005056.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-80/rep-3/imagenet/fc/training_results_Sun_May__5_14:43:26_2024.yml"
+                        layer4: "coco_objects/zoom-80/rep-3/imagenet/layer4/training_results_Sun_May__5_15:14:30_2024.yml"
+                        full: "coco_objects/zoom-80/rep-3/imagenet/full/training_results_Sun_May__5_14:55:58_2024.yml"
+    zoom-150:
+        reps:
+            0:
+                path: "coco_objects/zoom-150/rep-0/training_results_14-11-24-134541.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-150/rep-0/imagenet/fc/training_results_Fri_Nov_15_16:15:45_2024.yml"
+                        layer4: "coco_objects/zoom-150/rep-0/imagenet/layer4/training_results_Fri_Nov_15_16:15:49_2024.yml"
+                        full: "coco_objects/zoom-150/rep-0/imagenet/full/training_results_Fri_Nov_15_16:15:45_2024.yml"
+            1:
+                path: "coco_objects/zoom-150/rep-1/training_results_14-11-24-134541.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-150/rep-1/imagenet/fc/training_results_Mon_Nov_18_10:26:24_2024.yml"
+                        layer4: "coco_objects/zoom-150/rep-1/imagenet/layer4/training_results_Mon_Nov_18_10:26:24_2024.yml"
+                        full: "coco_objects/zoom-150/rep-1/imagenet/full/training_results_Mon_Nov_18_10:26:24_2024.yml"
+            2:
+                path: "coco_objects/zoom-150/rep-2/training_results_14-11-24-134541.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-150/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:37:57_2024.yml"
+                        layer4: "coco_objects/zoom-150/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:37:20_2024.yml"
+                        full: "coco_objects/zoom-150/rep-2/imagenet/full/training_results_Mon_Nov_18_10:37:52_2024.yml"
+            3:
+                path: "coco_objects/zoom-150/rep-3/training_results_05-05-24-010426.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_objects/zoom-150/rep-3/imagenet/fc/training_results_Sun_May__5_14:42:19_2024.yml"
+                        layer4: "coco_objects/zoom-150/rep-3/imagenet/layer4/training_results_Sun_May__5_15:06:29_2024.yml"
+                        full: "coco_objects/zoom-150/rep-3/imagenet/full/training_results_Sun_May__5_14:59:01_2024.yml"
+
+coco_object_detection:
+    original:
+        reps:
+            0:
+                path: "coco_object_detection/original/rep-0/training_results_Tue_Feb_27_17:38:03_2024.yml"
+                finetuned:
+                    imagenet:
+                        fc: "coco_object_detection/original/rep-0/imagenet/fc/training_results_Thu_Feb_29_18:51:41_2024.yml"
+                        layer4: "coco_object_detection/original/rep-0/imagenet/layer4/training_results_Tue_Apr_16_16:04:22_2024.yml"
+                        full: "coco_object_detection/original/rep-0/imagenet/full/training_results_Thu_Apr_18_08:49:14_2024.yml"
+
+ade20k_objects:
+    zoom-0:
+        reps:
+            0:
+                path: "ade20k_objects/zoom-0/rep-0/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-0/rep-0/imagenet/fc/training_results_Fri_Nov_15_16:16:18_2024.yml"
+                        layer4: "ade20k_objects/zoom-0/rep-0/imagenet/layer4/training_results_Fri_Nov_15_16:15:49_2024.yml"
+                        full: "ade20k_objects/zoom-0/rep-0/imagenet/full/training_results_Fri_Nov_15_16:16:18_2024.yml"
+            1:
+                path: "ade20k_objects/zoom-0/rep-1/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-0/rep-1/imagenet/fc/training_results_Mon_Nov_18_10:08:52_2024.yml"
+                        layer4: "ade20k_objects/zoom-0/rep-1/imagenet/layer4/training_results_Mon_Nov_18_10:08:50_2024.yml"
+                        full: "ade20k_objects/zoom-0/rep-1/imagenet/full/training_results_Mon_Nov_18_10:08:52_2024.yml"
+            2:
+                path: "ade20k_objects/zoom-0/rep-2/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-0/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:38:20_2024.yml"
+                        layer4: "ade20k_objects/zoom-0/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:38:28_2024.yml"
+                        full: "ade20k_objects/zoom-0/rep-2/imagenet/full/training_results_Mon_Nov_18_10:38:28_2024.yml"
+            3:
+                path: "ade20k_objects/zoom-0/rep-3/training_results_02-05-24-193527.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-0/rep-3/imagenet/fc/training_results_Fri_May__3_08:58:04_2024.yml"
+                        layer4: "ade20k_objects/zoom-0/rep-3/imagenet/layer4/training_results_Fri_May__3_09:29:54_2024.yml"
+                        full: "ade20k_objects/zoom-0/rep-3/imagenet/full/training_results_Fri_May__3_09:28:52_2024.yml"
+
+    zoom-80:
+        reps:
+            0:
+                path: "ade20k_objects/zoom-80/rep-0/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-80/rep-0/imagenet/fc/training_results_Fri_Nov_15_16:16:19_2024.yml"
+                        layer4: "ade20k_objects/zoom-80/rep-0/imagenet/layer4/training_results_Fri_Nov_15_16:16:19_2024.yml"
+                        full: "ade20k_objects/zoom-80/rep-0/imagenet/full/training_results_Fri_Nov_15_16:16:19_2024.yml"
+            1:
+                path: "ade20k_objects/zoom-80/rep-1/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-80/rep-1/imagenet/fc/training_results_Mon_Nov_18_10:08:49_2024.yml"
+                        layer4: "ade20k_objects/zoom-80/rep-1/imagenet/layer4/training_results_Mon_Nov_18_10:08:51_2024.yml"
+                        full: "ade20k_objects/zoom-80/rep-1/imagenet/full/training_results_Mon_Nov_18_10:08:51_2024.yml"
+            2:
+                path: "ade20k_objects/zoom-80/rep-2/training_results_14-11-24-133334.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-80/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:38:57_2024.yml"
+                        layer4: "ade20k_objects/zoom-80/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:38:58_2024.yml"
+                        full: "ade20k_objects/zoom-80/rep-2/imagenet/full/training_results_Mon_Nov_18_10:38:58_2024.yml"
+            3:
+                path: "ade20k_objects/zoom-80/rep-3/training_results_02-05-24-193219.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-80/rep-3/imagenet/fc/training_results_Fri_May__3_09:00:12_2024.yml"
+                        layer4: "ade20k_objects/zoom-80/rep-3/imagenet/layer4/training_results_Fri_May__3_09:31:54_2024.yml"
+                        full: "ade20k_objects/zoom-80/rep-3/imagenet/full/training_results_Fri_May__3_09:27:51_2024.yml"
+
+    zoom-150:
+        reps:
+            0:
+                path: "ade20k_objects/zoom-150/rep-0/training_results_14-11-24-133333.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-150/rep-0/imagenet/fc/training_results_Fri_Nov_15_16:16:18_2024.yml"
+                        layer4: "ade20k_objects/zoom-150/rep-0/imagenet/layer4/training_results_Fri_Nov_15_16:16:19_2024.yml"
+                        full: "ade20k_objects/zoom-150/rep-0/imagenet/full/training_results_Fri_Nov_15_16:16:17_2024.yml"
+            1:
+                path: "ade20k_objects/zoom-150/rep-1/training_results_14-11-24-133333.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-150/rep-1/imagenet/fc/training_results_Mon_Nov_18_10:08:22_2024.yml"
+                        layer4: "ade20k_objects/zoom-150/rep-1/imagenet/layer4/training_results_Mon_Nov_18_10:08:22_2024.yml"
+                        full: "ade20k_objects/zoom-150/rep-1/imagenet/full/training_results_Mon_Nov_18_10:08:16_2024.yml"
+            2:
+                path: "ade20k_objects/zoom-150/rep-2/training_results_14-11-24-133333.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-150/rep-2/imagenet/fc/training_results_Mon_Nov_18_10:39:55_2024.yml"
+                        layer4: "ade20k_objects/zoom-150/rep-2/imagenet/layer4/training_results_Mon_Nov_18_10:39:59_2024.yml"
+                        full: "ade20k_objects/zoom-150/rep-2/imagenet/full/training_results_Mon_Nov_18_10:39:59_2024.yml"
+            3:
+                path: "ade20k_objects/zoom-150/rep-3/training_results_02-05-24-185445.yml"
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_objects/zoom-150/rep-3/imagenet/fc/training_results_Fri_May__3_09:03:41_2024.yml"
+                        layer4: "ade20k_objects/zoom-150/rep-3/imagenet/layer4/training_results_Fri_May__3_09:33:56_2024.yml"
+                        full: "ade20k_objects/zoom-150/rep-3/imagenet/full/training_results_Fri_May__3_09:24:21_2024.yml"
+
+ade20k_scene_segmentation:
+    original:
+        reps:
+            0:
+                path: 'MaskFormerForInstanceSegmentation.from_pretrained("facebook/maskformer-resnet50-ade20k-full").model.pixel_level_module.encoder'
+                finetuned:
+                    imagenet:
+                        fc: "ade20k_scene_segmentation/original/rep-0/imagenet/fc/training_results_Thu_May__2_17:12:11_2024.yml"
+                        layer4: "ade20k_scene_segmentation/original/rep-0/imagenet/layer4/training_results_Thu_May__2_17:13:43_2024.yml"
+                        full: "ade20k_scene_segmentation/original/rep-0/imagenet/full/training_results_Thu_May__2_15:59:45_2024.yml"
+
+imagenet:
+    original:
+        reps:
+            0:
+                path: "" 
+                finetuned:
+                    oads:
+                        fc: "imagenet/original/rep-0/oads/fc/training_results_24-07-23-121330.yml"
+                        layer4: "imagenet/original/rep-0/oads/layer4/training_results_24-07-23-131857.yml"
+                        full: "imagenet/original/rep-0/oads/full/training_results_24-07-23-135418.yml"
+
+oads:
+    zoom-in-100:
+        reps:
+            0:
+                path: "oads/zoom-100/training_results_09-10-23-181109.yml"
+            1:
+                path: "oads/zoom-100/training_results_20-11-24-193117.yml"
+            2:
+                path: "oads/zoom-100/training_results_20-11-24-193916.yml"
+            3:
+                path: "oads/zoom-100/training_results_20-11-24-200447.yml"
+    zoom-in-150:
+        reps:
+            0:
+                path: "oads/zoom-150/training_results_09-10-23-181054.yml"
+            1:
+                path: "oads/zoom-150/training_results_20-11-24-194146.yml"
+            2:
+                path: "oads/zoom-150/training_results_20-11-24-194216.yml"
+            3:
+                path: "oads/zoom-150/training_results_20-11-24-195246.yml"
+    zoom-0:
+        reps:
+            0:
+                path: "oads/zoom-0/rep-0/training_results_29-08-23-16:01:44.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-0/rep-0/imagenet/fc/training_results_Fri_Sep__1_10:56:27_2023.yml"
+                        layer4: "oads/zoom-0/rep-0/imagenet/layer4/training_results_Fri_Sep__1_10:56:27_2023.yml"
+                        full: "oads/zoom-0/rep-0/imagenet/full/training_results_Fri_Sep__1_10:56:27_2023.yml"
+            1:
+                path: "oads/zoom-0/rep-1/training_results_29-08-23-16:00:30.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-0/rep-1/imagenet/fc/training_results_Thu_Aug_31_10:06:52_2023.yml"
+                        layer4: "oads/zoom-0/rep-1/imagenet/layer4/training_results_Thu_Aug_31_10:06:52_2023.yml"
+                        full: "oads/zoom-0/rep-1/imagenet/full/training_results_Fri_Sep__1_10:37:40_2023.yml"
+            2:
+                path: "oads/zoom-0/rep-2/training_results_29-08-23-15:57:44.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-0/rep-2/imagenet/fc/training_results_Thu_Aug_31_10:01:42_2023.yml"
+                        layer4: "oads/zoom-0/rep-2/imagenet/layer4/training_results_Thu_Aug_31_10:01:42_2023.yml"
+                        full: "oads/zoom-0/rep-2/imagenet/full/training_results_Fri_Sep__1_10:33:29_2023.yml"
+            3:
+                path: "oads/zoom-0/rep-3/training_results_29-08-23-15:54:49.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-0/rep-3/imagenet/fc/training_results_Thu_Aug_31_09:58:37_2023.yml"
+                        layer4: "oads/zoom-0/rep-3/imagenet/layer4/training_results_Thu_Aug_31_09:58:37_2023.yml"
+                        full: "oads/zoom-0/rep-3/imagenet/full/training_results_Fri_Sep__1_10:30:35_2023.yml"
+            4:
+                path: "oads/zoom-0/rep-4/training_results_29-08-23-15:49:16.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-0/rep-4/imagenet/fc/training_results_Thu_Aug_31_09:32:04_2023.yml"
+                        layer4: "oads/zoom-0/rep-4/imagenet/layer4/training_results_Thu_Aug_31_09:32:04_2023.yml"
+                        full: "oads/zoom-0/rep-4/imagenet/full/training_results_Fri_Sep__1_10:03:37_2023.yml"
+    zoom-80:
+        reps:
+            0:
+                path: "oads/zoom-80/rep-0/training_results_19-11-24-143052.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-80/rep-0/imagenet/fc/training_results_Wed_Nov_20_11:32:08_2024.yml"
+                        layer4: "oads/zoom-80/rep-0/imagenet/layer4/training_results_Wed_Nov_20_11:32:04_2024.yml"
+                        full: "oads/zoom-80/rep-0/imagenet/full/training_results_Wed_Nov_20_11:32:04_2024.yml"
+            1:
+                path: "oads/zoom-80/rep-1/training_results_19-11-24-142948.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-80/rep-1/imagenet/fc/training_results_Wed_Nov_20_11:29:12_2024.yml"
+                        layer4: "oads/zoom-80/rep-1/imagenet/layer4/training_results_Wed_Nov_20_11:29:09_2024.yml"
+                        full: "oads/zoom-80/rep-1/imagenet/full/training_results_Wed_Nov_20_11:29:09_2024.yml"
+            2:
+                path: "oads/zoom-80/rep-2/training_results_01-05-24-211519.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-80/rep-2/imagenet/fc/training_results_Thu_May__2_08:06:35_2024.yml"
+                        layer4: "oads/zoom-80/rep-2/imagenet/layer4/training_results_Thu_May__2_11:36:07_2024.yml"
+                        full: "oads/zoom-80/rep-2/imagenet/full/training_results_Mon_May_20_19:49:19_2024.yml"
+            3:
+                path: "oads/zoom-80/rep-3/training_results_19-11-24-142822.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-80/rep-3/imagenet/fc/training_results_Wed_Nov_20_11:35:25_2024.yml"
+                        layer4: "oads/zoom-80/rep-3/imagenet/layer4/training_results_Wed_Nov_20_11:34:58_2024.yml"
+                        full: "oads/zoom-80/rep-3/imagenet/full/training_results_Fri_Sep__1_103035_2023.yml"
+            4:
+                path: "oads/zoom-80/rep-4/training_results_19-11-24-142725.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-80/rep-4/imagenet/fc/training_results_Wed_Nov_20_11:36:34_2024.yml"
+                        layer4: "oads/zoom-80/rep-4/imagenet/layer4/training_results_Wed_Nov_20_11:37:10_2024.yml"
+                        full: "oads/zoom-80/rep-4/imagenet/full/training_results_Wed_Nov_20_11:36:52_2024.yml"
+    zoom-150:
+        reps:
+            0:
+                path: "oads/zoom-150/rep-0/training_results_19-11-24-143054.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-150/rep-0/imagenet/fc/training_results_Wed_Nov_20_11:32:50_2024.yml"
+                        layer4: "oads/zoom-150/rep-0/imagenet/layer4/training_results_Wed_Nov_20_11:32:56_2024.yml"
+                        full: "oads/zoom-150/rep-0/imagenet/full/training_results_Wed_Nov_20_11:33:10_2024.yml"
+            1:
+                path: "oads/zoom-150/rep-1/training_results_01-05-24-211857.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-150/rep-1/imagenet/fc/training_results_Thu_May__2_08:12:01_2024.yml"
+                        layer4: "oads/zoom-150/rep-1/imagenet/layer4/training_results_Thu_May__2_11:36:07_2024.yml"
+                        full: "oads/zoom-150/rep-1/imagenet/full/training_results_Mon_May_20_19:18:04_2024.yml"
+            2:
+                path: "oads/zoom-150/rep-2/training_results_19-11-24-142949.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-150/rep-2/imagenet/fc/training_results_Wed_Nov_20_11:29:13_2024.yml"
+                        layer4: "oads/zoom-150/rep-2/imagenet/layer4/training_results_Wed_Nov_20_11:29:38_2024.yml"
+                        full: "oads/zoom-150/rep-2/imagenet/full/training_results_Wed_Nov_20_11:29:13_2024.yml"
+            3:
+                path: "oads/zoom-150/rep-3/training_results_19-11-24-142823.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-150/rep-3/imagenet/fc/training_results_Wed_Nov_20_11:35:13_2024.yml"
+                        layer4: "oads/zoom-150/rep-3/imagenet/layer4/training_results_Wed_Nov_20_11:35:13_2024.yml"
+                        full: "oads/zoom-150/rep-3/imagenet/full/training_results_Wed_Nov_20_11:34:57_2024.yml"
+            4:
+                path: "oads/zoom-150/rep-4/training_results_19-11-24-142725.yml"
+                finetuned:
+                    imagenet:
+                        fc: "oads/zoom-150/rep-4/imagenet/fc/training_results_Wed_Nov_20_11:36:55_2024.yml"
+                        layer4: "oads/zoom-150/rep-4/imagenet/layer4/training_results_Wed_Nov_20_11:37:10_2024.yml"
+                        full: "oads/zoom-150/rep-4/imagenet/full/training_results_Wed_Nov_20_11:36:55_2024.yml"

@@ -1,0 +1,104 @@
+Bench:
+- !!python/tuple
+  - 6f6f6e4c594c6ef3
+  - 13
+- !!python/tuple
+  - 344c3ce08dc6c731
+  - 4
+- !!python/tuple
+  - 1ad2b43ef2b098a0
+  - 75
+- !!python/tuple
+  - 17ae2eb9f233bcf8
+  - 1
+Bollard:
+- !!python/tuple
+  - 49c47461796be4c8
+  - 12
+- !!python/tuple
+  - 683038ce34f1f0b0
+  - 32
+- !!python/tuple
+  - cfcd8ccccdede0e4
+  - 31
+- !!python/tuple
+  - 59606cdcbc7f0ecc
+  - 6
+Front door:
+- !!python/tuple
+  - fbdb9b3165f3f1e1
+  - 8
+- !!python/tuple
+  - 783b33333ab232b2
+  - 16
+- !!python/tuple
+  - 94b2371cf1e68ed2
+  - 31
+- !!python/tuple
+  - 414131bdd824b09c
+  - 11
+Lamppost:
+- !!python/tuple
+  - 5090a1a1299090d8
+  - 2
+- !!python/tuple
+  - 989cbc3cac8c4c8c
+  - 20
+- !!python/tuple
+  - eee3f3f0f1522ce6
+  - 9
+- !!python/tuple
+  - 5090a1a1299090d8
+  - 7
+Oma fiets:
+- !!python/tuple
+  - d2d69cda9e9fc9b2
+  - 0
+- !!python/tuple
+  - f0669cda43b08484
+  - 7
+- !!python/tuple
+  - 94b2371cf1e68ed2
+  - 12
+- !!python/tuple
+  - 243692a1553233bc
+  - 2
+Tree:
+- !!python/tuple
+  - 98d8e960c4eaf2f2
+  - 7
+- !!python/tuple
+  - 47032171a031b3c8
+  - 4
+- !!python/tuple
+  - fcfc9420e838fcfc
+  - 10
+- !!python/tuple
+  - b333f062cb0e98c2
+  - 2
+Truck:
+- !!python/tuple
+  - 4fc6be7ceef8ccf0
+  - 1
+- !!python/tuple
+  - 78787c7c706408b1
+  - 11
+- !!python/tuple
+  - f2c838becc1a82e0
+  - 1
+- !!python/tuple
+  - f2d4d4c6c6a6e0f8
+  - 6
+Van:
+- !!python/tuple
+  - bcfc7c76bf2d60f8
+  - 16
+- !!python/tuple
+  - fcf87262989c70e0
+  - 13
+- !!python/tuple
+  - ccc86c6c384cc8f0
+  - 11
+- !!python/tuple
+  - b0782565e5adfc20
+  - 0
