@@ -1,6 +1,6 @@
-# \<TITLE\>
+# Object-zoomed training of convolutional neural networks inspired by toddler development improves shape bias
 
-This repository contains the code for the paper "".
+This repository contains the code for the paper "Object-zoomed training of convolutional neural networks inspired by toddler development improves shape bias".
 
 ## Create dataset
 
