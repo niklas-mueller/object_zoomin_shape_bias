@@ -12,7 +12,7 @@ Scripts: ```make_datasets```:
 - For ADE20K we do not save the object crop version to files but instead create the object crops on the fly during training (see ```train_models/train_dnn_ade20k_objects.py```)
 - ```make_oads_cue_conflict_images.py``` - Script to create the new cue-conflict dataset for OADS tight crops using neural style transfer
 
-![coco_crops.png]
+![](coco_crops.png)
 
 ## Network training
 
